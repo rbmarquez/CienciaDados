@@ -1,0 +1,4 @@
+# Criação/Atualização da estrutura do Git
+$ cd C:\git
+$ git add .
+$ git commit -m "Importacao inicial"
